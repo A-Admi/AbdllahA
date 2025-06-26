@@ -13,7 +13,7 @@
 - 🌱 I’m exploring advanced **TypeScript**, **AI integration**, and **Cloud DevOps**  
 - 🛠️ Passionate about writing clean code and building scalable, real-world apps  
 - ⚡ Fun Fact: I turn coffee into code and ideas into applications  
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)  
+- 📫 Reach me at: [abdallah.admi@gmail.com](mailto:abdallah.admi@gmail.com)  
 
 ---
 
